@@ -1,11 +1,9 @@
 Projects
 ========
 
-Projects on SAFE 
-
+Projects on SAFE
 
 Developer                    | Title         | Description                                           | URL 
-
-Benjamin Bollen              |We the artists |
-
-Amir Goren                   |               | Safecoin wallet
+-----------------------------|---------------|-------------------------------------------------------|-----
+Benjamin Bollen              |We the artists |                                                       |
+Amir Goren                   |               | Safecoin wallet                                       |
